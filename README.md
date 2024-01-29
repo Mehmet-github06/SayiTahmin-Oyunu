@@ -25,7 +25,7 @@ This project utilizes the following technologies:
 
 ## Live Demo
 
-You can experience the application live [here](https://example.com).
+You can experience the application live [here](https://sayi-tahmin-oyunu.vercel.app/).
 
 ## Contributing
 
